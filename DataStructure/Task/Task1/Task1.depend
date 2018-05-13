@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507895292 source:d:\cote\datastructure\task\task1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1507873962 source:d:\cote\datastructure\task\va2-11\main.cpp
+	"Va.h"
+	"Va2-11.h"
+
+1507874105 d:\cote\datastructure\task\va2-11\va.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1507874151 d:\cote\datastructure\task\va2-11\va2-11.h
+
+1507862282 d:\cote\datastructure\task\va2-11\va2-11.cpp
+	"Va2-11.h"
+	"Va.h"
+
+1507862282 source:d:\cote\datastructure\task\va2-11\va2-11.cpp
+	"Va2-11.h"
+	"Va.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1507874458 source:d:\cote\datastructure\task\work1\main.cpp
+	"Work1.h"
+	"struct.h"
+
+1507874423 d:\cote\datastructure\task\work1\work1.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1507874399 d:\cote\datastructure\task\work1\struct.h
+
+1507874456 source:d:\cote\datastructure\task\work1\work1.cpp
+	"struct.h"
+	"Work1.h"
+
