@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507001102 source:d:\student_scoresystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1507001102 source:c:\users\luminary\desktop\student_scoresystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

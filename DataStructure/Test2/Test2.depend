@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1511351998 source:d:\cote\datastructure\test2\main.cpp
-	<iostream>
-	<math.h>
-	<string.h>
-	<stdio.h>
-	<stdlib.h>
-

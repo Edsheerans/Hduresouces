@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1511536137 source:d:\cote\datastructure\task\graph2\main.cpp
-	<iostream>
-	<stdio.h>
-	<string.h>
-	<malloc.h>
-
