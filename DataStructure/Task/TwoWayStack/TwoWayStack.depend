@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508073213 source:d:\cote\datastructure\task\twowaystack\main.cpp
+	<stdio.h>
+	<malloc.h>
+
